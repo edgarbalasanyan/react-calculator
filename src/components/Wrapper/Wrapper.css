@@ -1,0 +1,25 @@
+.wrapper{
+  margin:15px;
+  width: 22rem;
+  height:28rem;
+  border: 2px solid black;
+  border:2px solid black;
+  justify-content: center;
+}
+.showCalculations{
+  text-align: end;
+  background-color: #f0f0f0;
+  width:100%;
+  height: 100px;
+  border: 1px solid rgb(0, 0, 0);
+}
+.calculation{
+  padding-right: 0.5rem;
+}
+.result{
+  font-size: 2rem;
+  padding-right:0.5rem;
+}
+.buttonsWrapper{
+  display: flex;
+}
